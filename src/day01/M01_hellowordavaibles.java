@@ -11,6 +11,7 @@ public class M01_hellowordavaibles {
         System.out.println(sayi2+sayi2); //60
         System.out.println(40+40); //80
         System.out.println("40+30"); //4030
+        System.out.println("hello");
 
 
     }
