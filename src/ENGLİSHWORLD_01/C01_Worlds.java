@@ -74,8 +74,32 @@ public class C01_Worlds {
         words.put("cry", "aglamak");
         words.put("pain", "agrı");
         words.put("path", "yol yorunge");
-        words.put("lunc", "tahmin etmek");
+        words.put("lunc", "ogle yemegi");
         words.put("guess", "tahmin etmek");
+        words.put("gun", "silah");
+        words.put("hurt", "incitmek");
+        words.put("tear", "gozyası");
+        words.put("skin", "cilt");
+        words.put("chain", "zincir");
+        words.put("gift", "hediye");
+        words.put("fat", "yag");
+        words.put("sick", "hasta");
+        words.put("sad", "uzgun");
+        words.put("tiny", "ufacık");
+        words.put("sweet", "tatlı");
+        words.put("smell", "koku");
+        words.put("lake", "gol");
+        words.put("joke", "saka");
+        words.put("hell", "cehennem");
+        words.put("ill", "hasta");
+        words.put("kick", "tekmelemek");
+        words.put("dream", "ruya");
+        words.put("fact", "gercek");
+        words.put("bone", "kemik");
+        words.put("breathe", "nefes almak");
+        words.put("dish", "tabak");
+        words.put("hunt", "avlamak");
+
 
 
         // Diğer kelimeleri ekle
